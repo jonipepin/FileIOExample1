@@ -1,0 +1,7 @@
+/Users/pepin/AndroidStudioProjects/FileIOExample1/app/build/intermediates/classes/debug
+/Users/pepin/AndroidStudioProjects/FileIOExample1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-9ff7db8622e2558f2604174cff1c90455e150fab.jar
+/Users/pepin/AndroidStudioProjects/FileIOExample1/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-13e41a81dd1a85c180e85345f8a213a0580ceecf.jar
+/Users/pepin/AndroidStudioProjects/FileIOExample1/app/build/intermediates/pre-dexed/debug/classes-b731f726108eb79f5370fea5394456252b12468a.jar
+/Users/pepin/AndroidStudioProjects/FileIOExample1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-aae68d1fb51b3101c57d15cb6eab5a50f00404f5.jar
+/Users/pepin/AndroidStudioProjects/FileIOExample1/app/build/intermediates/pre-dexed/debug/classes-25959ffe22957388e378ec651c216ab10359a85f.jar
+/Users/pepin/AndroidStudioProjects/FileIOExample1/app/build/intermediates/pre-dexed/debug/classes-661f2fbf03f5ec14ecb98cf77a58beda2cb1eccc.jar
